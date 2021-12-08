@@ -1,2 +1,2 @@
 # My Compose App
-Android Compose Jetpack app with fragments.
+Android Jetpack Compose app with fragments.
